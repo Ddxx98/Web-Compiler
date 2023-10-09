@@ -1,0 +1,13 @@
+.editor{
+    width: 30vw;
+    flex-grow: 3;
+    border-radius: 10px;
+    padding: 1vw;
+}
+
+.editor-header{
+    display: flex;
+}
+.code-mirror-wrapper{
+    height: 10%;
+}
