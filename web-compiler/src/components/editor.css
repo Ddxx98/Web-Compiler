@@ -8,6 +8,6 @@
 .editor-header{
     display: flex;
 }
-.code-mirror-wrapper{
-    height: 10%;
+.collapsed{
+    width: 5vw;
 }
